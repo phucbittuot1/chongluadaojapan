@@ -1,0 +1,14 @@
+{
+  "blacklist": [
+    {
+      "ten_tai_khoan": "nguyenvana",
+      "so_tai_khoan": "123456",
+      "image": "duong_dan_den_hinh_anh_1"
+    },
+    {
+      "ten_tai_khoan": "nguyenvanb",
+      "so_tai_khoan": "789012",
+      "video": "duong_dan_den_video_1"
+    }
+  ]
+}
