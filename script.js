@@ -5,7 +5,7 @@ function searchBank(event) {
   var accountName = document.getElementById("name").value;
   
   // sử dụng đường dẫn tương đối
-  var blacklistFile = "./blacklist.json";
+  var blacklistFile = "blacklist.json";
 
   fetch(blacklistFile)
     .then(function(response) {
